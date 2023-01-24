@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <environment_key_dev>a0e558df-5e8b-4154-8cf8-1465fc47e90d_Dev</environment_key_dev>
+  <environment_key_live>a0e558df-5e8b-4154-8cf8-1465fc47e90d_Live</environment_key_live>
+  <environment_key>1</environment_key>
+  <collect_url>collect19370ggzmb.deltadna.net/collect/api</collect_url>
+  <engage_url>engage19370ggzmb.deltadna.net</engage_url>
+  <hash_secret />
+  <client_version />
+  <use_application_version>true</use_application_version>
+</configuration>
